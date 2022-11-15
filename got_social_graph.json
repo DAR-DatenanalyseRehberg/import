@@ -1,0 +1,14 @@
+{"nodes":[
+{"character":"E0428351EN","id":0,"influence":4,"zone":0},
+{"character":"N3622730","id":1,"influence":15,"zone":0},
+{"character":"N3622730","id":2,"influence":24,"zone":3},
+{"character":"N5411530","id":3,"influence":18,"zone":3},
+{"character":"N3622630","id":4,"influence":12,"zone":3}
+],
+"links":[
+{"source":0,"target":0,"weight":1},	{"source":0,"target":1,"weight":6},	{"source":0,"target":2,"weight":2},	{"source":0,"target":3,"weight":50},	{"source":0,"target":4,"weight":9},
+{"source":1,"target":0,"weight":2},	{"source":1,"target":1,"weight":1},	{"source":1,"target":2,"weight":3},	{"source":1,"target":3,"weight":6},	{"source":1,"target":4,"weight":4},
+{"source":2,"target":0,"weight":3},	{"source":2,"target":1,"weight":7},	{"source":2,"target":2,"weight":1},	{"source":2,"target":3,"weight":7},	{"source":2,"target":4,"weight":3},
+{"source":3,"target":0,"weight":4},	{"source":3,"target":1,"weight":8},	{"source":3,"target":2,"weight":4},	{"source":3,"target":3,"weight":1},	{"source":3,"target":4,"weight":5},
+{"source":4,"target":0,"weight":5},	{"source":4,"target":1,"weight":9},	{"source":4,"target":2,"weight":5},	{"source":4,"target":3,"weight":8},	{"source":4,"target":4,"weight":1}
+]}
